@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+spotipy = "*"
+"discord.py" = "*"
 
 [dev-packages]
 autopep8 = "*"
